@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.leyou.upload.config.UploadProrerties",
+      "name": "leyou.upload",
+      "type": "com.leyou.upload.config.UploadProrerties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.leyou.upload.config.UploadProrerties",
+      "name": "leyou.upload.allow-types",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.leyou.upload.config.UploadProrerties",
+      "name": "leyou.upload.base-url",
+      "type": "java.lang.String"
+    }
+  ]
+}
